@@ -12,5 +12,11 @@ Here,
 
 5.  Other files are required file for the smooth flow of the game.
 
+RPS.exe: It is the installer of the game
+
+RPS_GUI_mk5.exe: It is the just the executable file. It will not run without the required files.
+I suggest to download the RPS.exe file, It will install all the necessary file.
+
 VAMOS!!!!
 VAMOS!!!!
+

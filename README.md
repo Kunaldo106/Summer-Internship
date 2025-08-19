@@ -6,7 +6,7 @@ Here,
 
 2.  gui_rps.py, it is the simple implementation of the game (Rock Paper Scissor) with GUI. GUI is implemented using Tkinter. It just provide with 3 option (Rock, Paper, Scissor) upon selecting one, desired result is produced with no scoring system and no multi-frame switching feature.
 
-3.  gui_rps_mark_2.py, it is bit advanced or upgraded from the previous one. It has the multi-frame switching system(menu system). It takes unsername as input to store the player name as login details. but no scoring system.
+3.  gui_rps_mark_2.py, it is bit advanced or upgraded from the previous one. It has the multi-frame switching system(menu system). It takes username as input to store the player name as login details. but no scoring system.
 
 4.  RPS_GUI_mk5.py, This is the final and main source code of the game which i made in summer internship. It has many features like- Sound control, Multi-frame switching, Log in & Log out feature, scoring and it in text file feature, images.
 
